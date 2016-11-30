@@ -1,0 +1,17 @@
+{
+  "name": "hitting",
+  "version": "1.0.0",
+  "description": "custom key press",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "global",
+    "keyboard",
+    "mouse",
+    "hit"
+  ],
+  "author": "wyg",
+  "license": "ISC"
+}
