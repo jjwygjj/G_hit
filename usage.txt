@@ -1,0 +1,4 @@
+Commands:
+
+hitting
+hitting start      start G_hit

@@ -1,6 +1,9 @@
 {
   "name": "hitting",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "bin": {
+    "hitting": "cli.js"
+  },
   "description": "custom key press",
   "main": "index.js",
   "scripts": {
@@ -13,5 +16,8 @@
     "hit"
   ],
   "author": "wyg",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
 }
