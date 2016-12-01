@@ -7,9 +7,9 @@
 
 2 安装java
 
-3 git clone git@github.com:jjwygjj/G_hit.git
+3 npm install hitting -g
 
-4 cd G_hit
+4 hitting list 查看音符列表
 
-5 node index.js
+5 hitting start 1
 ```

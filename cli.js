@@ -1,10 +1,12 @@
+'use strict';
+
 var program = require('commander');
 var fs = require('fs');
 var run = require('./');
-var package = require('./package.json');
+var pack = require('./package.json');
 
 program
-  .version(package.version)
+  .version(pack.version)
   .usage('[options] <file ...>')
   .command('list')
   .command('start')

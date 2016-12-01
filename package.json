@@ -1,14 +1,18 @@
 {
-  "name": "hitting",
+  "name": "ghitting",
   "version": "0.0.1",
   "bin": {
-    "hitting": "cli.js"
+    "hitting": "bin/cli"
   },
   "description": "custom key press",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/jjwygjj/G_hit"
+ },
   "keywords": [
     "global",
     "keyboard",
