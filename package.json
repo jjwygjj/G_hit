@@ -1,6 +1,6 @@
 {
-  "name": "ghitting",
-  "version": "0.0.1",
+  "name": "hitting",
+  "version": "0.0.6",
   "bin": {
     "hitting": "bin/cli"
   },
